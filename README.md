@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # happee
-=======
 # 工业轴承TE数据集故障检测系统
 
 本项目使用PyTorch实现了多种深度学习模型，用于工业轴承TE数据集的故障检测。系统支持RNN、GRU、LSTM、CNN-LSTM和CNN-GRU等多种模型架构。
